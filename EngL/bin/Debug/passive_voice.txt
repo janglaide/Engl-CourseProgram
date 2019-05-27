@@ -1,0 +1,46 @@
+Passive Voice
+In general we tend to use the active voice. 
+That is when a subject does an action to an object.
+The passive voice is used when we want to emphasize the action (the verb) 
+and the object of a sentence rather than subject. 
+This means that the subject is either less important 
+than the action itself or that we don`t know who or what the subject is.
+When we know who the subject is, we put it at the end with by. 
+We call this an agent.
+Most writing instructors and editors recommend against 
+using the passive voice, when possible. 
+The reason for this is that when you use the active voice, 
+your writing is clearer and less complicated.
+The passive is often used to report something or to state a fact.
+The passive voice is not a tense in English. 
+Each tense has its own passive voice 
+which is created by using 
+a form of the auxiliary verb to be + V3 (past participle)
+
+Present simple
+am, is, are + V3	
+Present progressive
+am, is, are + being + V3
+Past simple
+was, were + invited
+Past progressive
+was, were + being + V3
+Future (will)
+will be + V3
+Future (going to)
+am, is, are + going to be + V3	
+Present perfect
+has, have + been + V3
+Past perfect
+had + been + V3
+Future perfect
+will + have been + V3
+Modals: can/could
+can, could + be + V3
+Modal: have to
+have to, has to, had to + be + V3
+Modal: must
+must + be + V3
+
+Read more: 
+https://www.gingersoftware.com/content/grammar-rules/verbs/passive-voice/

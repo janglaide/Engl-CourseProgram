@@ -1,0 +1,49 @@
+1) .... ask you a question?
+1 - Can I
+2 - I can
+3 - Do I can
+
+2)'Can you play the piano?' 'Yes, I ....'
+1 - can
+2 - do
+3 - play
+
+3) He says that he .... me.
+1 - can`t helps
+2 - can`t to help
+3 - can`t help
+
+4) What .... tell Peter?
+1 - should I
+2 - should I to
+3 - do I should
+
+5) They .... to go to the police.
+1 - should
+2 - ought
+3 - shouldn`t
+
+6) People .... be afraid of their governments.
+1 - ought not to
+2 - ought to not
+3 - shouldn`t to
+
+7) You .... swim immediately after a meal.
+1 - should not
+2 - ought not
+3 - shouldn`t
+
+8) 'Collin isn`t at home.''He .... in his office.'
+1 - might be
+2 - can be
+3 - should be
+
+9) Look at those clouds. It .... rain this afternoon.
+1 - must
+2 - might
+3 - is
+
+10) He said he .... spend the money he won on a new car.
+1 - thinks
+2 - might
+3 - can
